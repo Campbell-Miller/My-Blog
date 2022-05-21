@@ -1,10 +1,9 @@
 ---
 title: "A/B Testing"
 description: |
-  Welcome to our new blog, Campbell's Blog. We hope you enjoy 
-  reading what we have to say!
+  A brief look into A/B testing and implementation of some statitical tests in R
 author:
-  - name: Nora Jones 
+  - name: Campbell Miller
     url: https://example.com/norajones
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
@@ -16,11 +15,16 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating blogs with Distill at:
-# https://rstudio.github.io/distill/blog.html
-
 ```
 
+```{r}
+pacman::p_load(here, ggplot2)
 
+cat_data <- read.csv(here(file = "cookie_cats.csv"))
+```
+
+```{r}
+ggplot(cat_data, aes(x=retention_1, y=sum_gamerounds)) +
+  geom_point()
+```
 

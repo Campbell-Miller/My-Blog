@@ -1,7 +1,7 @@
 ---
-title: "About this blog"
+title: "Blogposts by Campbell Miller"
 description: |
-  Some additional details about the blog
+  This is a blog meant mainly for articles exploring topics in data science and analytics. Hopefully more projects will be added in time.
 ---
 
 ```{r setup, include=FALSE}

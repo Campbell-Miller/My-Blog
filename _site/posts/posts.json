@@ -2,18 +2,18 @@
   {
     "path": "posts/welcome/",
     "title": "A/B Testing",
-    "description": "Welcome to our new blog, Campbell's Blog. We hope you enjoy \nreading what we have to say!",
+    "description": "A brief look into A/B testing and implementation of some statitical tests in R",
     "author": [
       {
-        "name": "Nora Jones",
+        "name": "Campbell Miller",
         "url": "https://example.com/norajones"
       }
     ],
     "date": "2022-05-20",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2022-05-20T20:35:19-07:00",
+    "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-2-1.png",
+    "last_modified": "2022-05-20T20:55:17-07:00",
     "input_file": "welcome.knit.md"
   }
 ]
