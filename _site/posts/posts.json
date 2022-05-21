@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to Campbell's Blog",
+    "title": "A/B Testing",
     "description": "Welcome to our new blog, Campbell's Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-05-20T20:23:56-07:00",
-    "input_file": {}
+    "last_modified": "2022-05-20T20:30:05-07:00",
+    "input_file": "welcome.knit.md"
   }
 ]
