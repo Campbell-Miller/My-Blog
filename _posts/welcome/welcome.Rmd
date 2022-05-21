@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Campbell's Blog"
+title: "A/B Testing"
 description: |
   Welcome to our new blog, Campbell's Blog. We hope you enjoy 
   reading what we have to say!
